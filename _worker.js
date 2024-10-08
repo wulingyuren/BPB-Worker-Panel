@@ -13,7 +13,7 @@ let userID = '89b3cbba-e6ac-485a-9481-976a0415eab9';
 const proxyIPs= ['bpb.yousef.isegaro.com'];
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
-let proxyIP = '146.56.162.25';
+let proxyIP = '146.56.40.1';
 let dohURL = 'https://cloudflare-dns.com/dns-query';
 let trojanPassword = `bpb-trojan`;
 // https://emn178.github.io/online-tools/sha224.html
